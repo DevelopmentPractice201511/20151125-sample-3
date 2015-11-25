@@ -1,4 +1,9 @@
 # 20151125-sample-3
+#●vimとは
+vimは編集機能だけに注力したテキストエディタです。
+
+<img src="http://www.kaoriya.net/blog/2013/12/06/vimlogo-564x564.png" width="300">
+
 # よく使われるコマンド
 ## ファイル操作
 
