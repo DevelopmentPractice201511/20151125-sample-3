@@ -38,12 +38,5 @@
 
 - p   ヤンク、削除したものをカーソルの次の行（or次の位置）に貼り付ける
 - P   ヤンク、削除したものをカーソルの前の行（or前の位置）に貼り付ける
-<STYLE type="text/css">
-<!--
-.th{
-    position: absolute;
-    right:260px;
-    top:300px;
-}
--->
-<img src="http://livedoor.blogimg.jp/samacondvs-hebo/imgs/2/4/24f0bbd6.jpg"  title="サンプル" class="th">
+
+<img src="http://www.kaoriya.net/blog/2013/12/06/vimlogo-564x564.png"  title="サンプル">
