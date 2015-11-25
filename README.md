@@ -39,4 +39,4 @@
 - p   ヤンク、削除したものをカーソルの次の行（or次の位置）に貼り付ける
 - P   ヤンク、削除したものをカーソルの前の行（or前の位置）に貼り付ける
 
-![エビフライトライアングル](http://i.imgur.com/Jjwsc.jpg "サンプル")
+<img src="http://livedoor.blogimg.jp/samacondvs-hebo/imgs/2/4/24f0bbd6.jpg"  title="サンプル">
